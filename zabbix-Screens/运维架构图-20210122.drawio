@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T02:55:57.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="qGseUnJ3bh_VymrYh4MG" version="14.2.4" type="github"><diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">7Vttc+MmEP41zLQf3EHo/aMdK01nLu3dePr6pYMlLNNgoSAc2/frCxKypZOT+qZOyDnJZMawCwt6dhd21zJwr1bbHwUul7c8IwwgmG2BOwUIoTB01Yem7BrKKPS9hpILmjU050CY0c/EEKGhrmlGqt5AyTmTtOwTU14UJJU9GhaCb/rDFpz1Vy1xTgaEWYrZkPo7zeTSUB0ID4wbQvOlWTryDWOO07tc8HVh1gPIXdR/DXuFW1lmfLXEGd90SG4C3CvBuWxaq+0VYRrcFrZm3vUj3P2+BSnkKRPo/c/ot5v79O9RSD/J66vbv8bpyEh5wGxt8FB63jGej2ZEPBBhti53LVz1AxMtEgJ3sllSSWYlTjV3oyxE0ZZyxVTPUc0FZeyKMy7quW7mkyjzFL2Sgt+RDidCczcIFMdshwhJto8+p7NHT5kl4SsixU4NaSc40Q9+M8nYpFKakbLpaLjVy7Kj3MDQsDGqfC/9AKxqGGy/Amc0wBmgQD24A+uH7jaZ1AiVuOgBH9yvtaFM0ga0sWKKfP6d2q/aEGw/vq9FKCco5GiBV5TtmqFLwh6IpCnu8KvaFTXXQeW2y2gW1ZyCixVmHd7GgKWZHmx2DBmRkoiR2nNKi3w4U+lSjjCjedHwUqVJZVoHHlUmVRipsN1LzZECF9VCyWqlFqThbrjI+ivuJx4cc/QFWsiLGqCQF5uG32KW0apk2OBFC0bblRaMY/nF8q02VCvXn7e8yPl0rz1lIo0CG+5jqv7mXMuNndfmWO4ARpKp8910uZBLnvMCs+RAnfSBPoz5wHlp4P1HmfTOXFZ4LXkf/GZNvdDTQKp98bVIyRP7N5elxCIn8olx4XHFCMKwpA/9fZwdZO9N3BKuZ9uYfRvGrAATuz/0fAWI6f5pxNWd6bbX25neGZ0gONEJYptOELwJJ/CgbScI30Ol91Dp8kIl+7dL9O5Y7451eY5l/8aKB46VzM6KLIQRrg19gCyEflhztGd06KYS9VxRgh/axrwtH74h0APXOujDcuHFgx5bBx0NEH7RrLCXEx5SxOfPCh2jiv9MC73jSn2ZtND51itQJ8Pc+dbCBs6eVTdwXr8boMiqfvxhepFEYOKB+LpuTPV/4oN4CqJQU8aO/v9ft8cZzvyRE3n9I99+puYEb/XID0+0dcfuWTSsUc3udhvM7nQmiOCvP7VZ2Fy0CVhvwC/jj2cNmxYLEqTpsbApC+M5hM/lKq8gJI3suoq1mrkTn3otPKLUF3KVYXJ8mZ5gPU9Aw4z4IpG2X3ton6KDdIFTXl0EvJH16AehC4Y3tl6tRO4lwxtYh9dunmovIEGn5qlNpmgrIEHH8tQAxD6YQN2IpmCcgCTWSarOU2MQT0B0JCFjjJaVVl61xKUmpoyvM0s5q3NqIB49m90P34+4UaLFaFyWZz1aMkyixdGjJUgjMj9TKXjkBcGruxjDt3q0RCceLa7VsgAafsN+Q0pGF7tneUXIkh/YL4+h2IYfnNGeXXiiPTeHqi17docZ5UdeyVyQ6tOHi7Bl+7mkO8wlk9kh6khCMEnA2NON2AMTp5PSJy5Qt3nkmNcQdW09UlGMY8aOh5Ux/TpLXw/mjZjp/nUYDTBNMRsbxopmWeM/pKKf8bwWpRVcclrIGg1/AvyplqVcpnmhpxY9UOX1NYTHvsHd08+gYtTG//u6jD/U8P63R10No6/XsOoefr5T8zo/knKTfwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-22T02:56:17.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wKBBZZ_VfdsOBrlrhIO8" version="14.2.4" type="github">
+  <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
+    <mxGraphModel dx="2522" dy="-896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-1" value="Graylog-Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="118.5" y="2281" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-2" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;MongoDB&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="391" y="2281" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iqN2VHqc_-7iQtFCMZAc-4" target="iqN2VHqc_-7iQtFCMZAc-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-4" value="Graylog-Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="118.5" y="2341" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iqN2VHqc_-7iQtFCMZAc-6" target="iqN2VHqc_-7iQtFCMZAc-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-6" value="Graylog-Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="118.5" y="2401" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-7" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;MongoDB&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="391" y="2341" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-8" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;MongoDB&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="391" y="2401" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-9" value="ES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="118.5" y="2571" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-10" value="ES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="118.5" y="2631" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-11" value="ES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="118.5" y="2691" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iqN2VHqc_-7iQtFCMZAc-15" target="iqN2VHqc_-7iQtFCMZAc-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iqN2VHqc_-7iQtFCMZAc-15" target="iqN2VHqc_-7iQtFCMZAc-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iqN2VHqc_-7iQtFCMZAc-15" target="iqN2VHqc_-7iQtFCMZAc-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-15" value="负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-184" y="2341" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iqN2VHqc_-7iQtFCMZAc-17" target="iqN2VHqc_-7iQtFCMZAc-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-17" value="Skywalking UI&lt;br&gt;Skywalking OAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-184" y="2631" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iqN2VHqc_-7iQtFCMZAc-19" target="iqN2VHqc_-7iQtFCMZAc-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-19" value="Skywalking OAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-184" y="2691" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-20" value="Skywalking OAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-184" y="2571" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-21" value="nacos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-184" y="2841" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-22" value="nacos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-184" y="2901" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-23" value="nacos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-184" y="2961" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iqN2VHqc_-7iQtFCMZAc-25" target="iqN2VHqc_-7iQtFCMZAc-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-25" value="数据采集" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-184" y="2131" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-26" value="Homer-App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-466" y="2841" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iqN2VHqc_-7iQtFCMZAc-28" target="iqN2VHqc_-7iQtFCMZAc-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-28" value="Heplify-Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-466" y="2341" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iqN2VHqc_-7iQtFCMZAc-30" target="iqN2VHqc_-7iQtFCMZAc-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-30" value="PostgresQL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-466" y="2571" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqN2VHqc_-7iQtFCMZAc-31" value="ES集群由Skywalking、Graylog共用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FF0000;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="261" y="2651" width="210" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
